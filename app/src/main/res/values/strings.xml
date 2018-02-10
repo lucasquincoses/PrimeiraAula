@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Gera o numerinho</string>
+    <string name="label_botao">Me Aperte</string>
+</resources>
